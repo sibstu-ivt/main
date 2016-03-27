@@ -58,6 +58,7 @@
 Для подготовки крайне рекомендую ресурсы:
 * html, css - https://webref.ru/ (хороший справочник)
 * js - http://javascript.ru/ (справочник, на главной ссылка на учебник)
+* http://testserver.pro/kb/index/1440 (список вопросов из http://certifications.ru)
 
 ##Экономика
 
