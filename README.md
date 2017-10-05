@@ -1,4 +1,4 @@
-#0901-41
+#0901-51
 
 **Объявления выкладываются в разделе [news](https://github.com/sibstu-ivt/main/blob/master/NEWS.md)**.
 
